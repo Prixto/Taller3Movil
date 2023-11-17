@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999610035636",
+    "project_id": "taller3-santana-uribe",
+    "storage_bucket": "taller3-santana-uribe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999610035636:android:db2c667b60be10a67816e1",
+        "android_client_info": {
+          "package_name": "com.example.taller3_santana_uribe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeNfQSblYD5c7PZn8wB3I067KTJpZLQYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
